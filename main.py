@@ -61,7 +61,7 @@ st.title("🤔 Am I 21?")
 st.write("😈 A Google Gemini bot.")
 
 st.markdown("""
-Want to learn how to do this? - [Connect with me!](https://beacons.ai/vijayxtech)
+Want to learn how to do this? - [Connect with me](https://beacons.ai/vijayxtech) @vijayxtech.
 """)
 
 
